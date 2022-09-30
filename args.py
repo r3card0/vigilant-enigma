@@ -7,7 +7,7 @@ def clargs():
     return comlargs
 
 def run():
-    clargs()
+    print(clargs())
 
 
 if __name__ == "__main__":
